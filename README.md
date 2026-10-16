@@ -1,6 +1,6 @@
 # London Bicycle Theft: Crime Mapping and Spatial Analysis
 
-A 2024 UCL **SECU0022 Crime Mapping and Spatial Analysis** coursework project examining recorded bicycle theft in Greater London, with a closer look at Southwark. The report combines thematic maps, spatial clustering, kernel-density maps, and monthly and seasonal comparisons to show how conclusions change with geographic scale and the choice of denominator.
+A 2024 UCL **SECU0022 Crime Mapping and Spatial Analysis** coursework project (84 marks) examining recorded bicycle theft in Greater London, with a closer look at Southwark. The report combines thematic maps, spatial clustering, kernel-density maps, and monthly and seasonal comparisons to show how conclusions change with geographic scale and the choice of denominator.
 
 ## Start with the report
 
